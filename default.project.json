@@ -1,0 +1,10 @@
+{
+  "name": "rologger",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "$ignoreUnknownInstances": true,
+      "$path": "src/"
+    }
+  }
+}
