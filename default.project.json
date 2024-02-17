@@ -4,7 +4,9 @@
     "$className": "DataModel",
     "ServerScriptService": {
       "$ignoreUnknownInstances": true,
-      "$path": "src/"
+      "Rologger": {
+        "$path": "rologger"
+      }
     }
   }
 }
